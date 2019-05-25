@@ -2,5 +2,5 @@
 
 header("Content-Type: application/json; charset=utf-8");
 
-$data = [ 'status' => 'OK' ];
-echo json_encode($data);
+// exec('./shock.py');
+return json_encode([ 'status' => 'OK' ]);
