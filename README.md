@@ -1,3 +1,3 @@
-# Xen backend
+# Xen for backend
 これはXenのバックエンドプロジェクトです.  
 XenからのHTTPリクエストの受け口, ビリビリマシンを動作役割を果たしています.
