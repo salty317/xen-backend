@@ -13,4 +13,11 @@ XenからのHTTPリクエストの受け口とビリビリマシンを動作さ�
 |Python|Python 3.5.3|
 
 ### 警策グローブ
-準備中.
+
+<img src="./img/1.jpg" width="300">
+
+<img src="./img/2.jpg" width="300">
+
+<img src="./img/3.jpg" width="300">
+
+(撮影: かずきち, モデル: 柿元)
