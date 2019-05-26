@@ -6,7 +6,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(24, GPIO.OUT)
 
-try
+try:
     GPIO.output(24, True)
     time.sleep(0.4)
     GPIO.output(24, False)
